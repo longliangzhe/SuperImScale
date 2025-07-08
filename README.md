@@ -16,7 +16,7 @@ SuperImScale是一款基于Python的强大图像修复与超分辨率工具，�
 
 ## 🚀 快速开始
 ### 方法一：使用EXE文件（推荐）
-1. 前往项目的 [Release页面](https://github.com/您的用户名/SuperImScale/releases)
+1. 前往项目的 [Release页面](https://github.com/longliangzhe/SuperImScale/releases)
 2. 下载最新版本的 `SuperImScale.exe` 文件
 3. 双击运行即可使用，无需安装Python环境
 
